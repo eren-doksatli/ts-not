@@ -1,0 +1,9 @@
+.note_card {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.note_card:hover {
+  translate: 10px -10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
